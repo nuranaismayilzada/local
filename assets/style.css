@@ -1,0 +1,24 @@
+#navbarNav{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+ .basketIcon{
+    color: red;
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+/* .card img{
+    background-size: cover;
+    background-position: center;
+}
+.card{
+    width: 400px;
+    height: 500px;
+} */
+ .row{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+} 
